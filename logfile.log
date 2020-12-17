@@ -32,3 +32,13 @@
 2020-12-16 21:45:56,661 INFO  [Log] Deleted emp 
 2020-12-16 21:45:57,015 INFO  [Log] Logout completed 
 2020-12-16 21:45:57,454 INFO  [Log] Application closed 
+2020-12-17 12:24:10,338 INFO  [Log] Application opened 
+2020-12-17 12:24:36,516 INFO  [Log] Login completed 
+2020-12-17 12:24:36,717 INFO  [Log] Logout completed 
+2020-12-17 12:24:37,133 INFO  [Log] Application closed 
+2020-12-17 12:24:42,475 INFO  [Log] Application opened 
+2020-12-17 12:24:47,491 INFO  [Log] Login completed 
+2020-12-17 12:24:47,491 INFO  [Log] Adding new emp 
+2020-12-17 12:24:47,492 INFO  [Log] Deleted emp 
+2020-12-17 12:24:47,698 INFO  [Log] Logout completed 
+2020-12-17 12:24:47,898 INFO  [Log] Application closed 
